@@ -1,12 +1,12 @@
 html {
   box-sizing: border-box;
   background-color: #f2f1ed;
-  font-family: Georgia, serif;
+  font-family: "Patua One", sans-serif;
   line-height: 1.5;
 }
 
 *, *::before, *::after {
-    box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 img {
@@ -19,7 +19,7 @@ h1, h2 {
 }
 
 figcaption {
-  font-size: 0.75rem;
+  font-size: .75rem;
   font-style: italic;
   text-align: center;
 }
@@ -44,5 +44,5 @@ nav a:hover {
 }
 
 .intro {
-  font-size: 1rem:
+  font-size: 1rem;
 }

@@ -8,3 +8,18 @@ html {
 *, *::before, *::after {
     box-sizing: inherit;
 }
+
+img {
+  width: 100%;
+}
+
+h1, h2 {
+  color: #5d8432;
+  text-tramsform: uppercase;
+}
+
+figcaption {
+  font-size: .Brem;
+  font-style: italic;
+  text-align: center;
+}
